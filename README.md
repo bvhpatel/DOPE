@@ -42,7 +42,7 @@ Version 0.1 - Demo for the SPARC Hackathon !
 * **Bhavesh Patel** - *Team Leader* - [California Medical Innovation Institute](https://calmi2.org/)
 * **Roberta Sclocco** - *MRI Data* - [Athinoula A. Martinos Center for Biomedical Imaging](https://www.nmr.mgh.harvard.edu/user/8500)
 * **Stefano Morotti** - *Computational Modeling* - [UC Davis - Department of Pharmacology](https://scholar.google.com/citations?user=lWILK_YAAAAJ&hl=it&oi=ao)
-* **Parya Aghasafari** - *Computational Modeling* - [California Medical Innovation Institute](https://scholar.google.com/citations?user=kmtLkS8AAAAJ&hl=it&oi=ao)
+* **Parya Aghasafari** - *Computational Modeling* - [UC Davis](https://scholar.google.com/citations?user=kmtLkS8AAAAJ&hl=it&oi=ao)
 * **Nicole Thompson** - *MicroCT Data* - [University College London](https://uk.linkedin.com/in/nicole-thompson-b20b0512b)
 * **Enrico Ravagli** - *MicroCT Data* - [University College London](https://scholar.google.com/citations?user=fPftKs0AAAAJ&hl=it&oi=ao)
 
