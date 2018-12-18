@@ -44,7 +44,7 @@ Follow instructions at https://ipywidgets.readthedocs.io/en/stable/user_install.
 Follow instructions at http://docs.blackfynn.io/python/latest/quickstart.html#installation
 ```
 
-6. Download all **DOPE** files from the this Github repository (click "Clone or download" and select "Download ZIP").
+6. Download all **DOPE** files from this Github repository (click "Clone or download" and select "Download ZIP").
 
 
 7. In the Anaconda Prompt, type "jupyter lab" to launch JupyterLab.
@@ -53,14 +53,17 @@ Follow instructions at http://docs.blackfynn.io/python/latest/quickstart.html#in
 
 
 ## Built With
-* [Docker] (https://www.docker.com/) - Application deployment tool
+* [Anaconda (https://www.anaconda.com) - Fastest and easiest way to use Jupyter
 * [Jupyter] (https://jupyter.org/) - Software and web service development
+* [Ipywidgets] (https://pypi.org/project/ipywidgets/) - Interactive HTML widgets for Jupyter notebooks
+* [Blackfynn python API] (http://docs.blackfynn.io/python/latest/) - Python client and command line tool for Blackfynn
+
 
 
 ## Versioning
 
-Version 1.1 - Cleaned up version with more finished functionality and a thorough user manual.
-Version 0.1 - Demo for the SPARC Hackathon.
+* Version 1.1 - Cleaned up version with more finished functionality and a thorough user manual.
+* Version 0.1 - Demo for the SPARC Hackathon.
 
 ## Authors
 
@@ -73,11 +76,11 @@ Version 0.1 - Demo for the SPARC Hackathon.
 
 ## License
 
-This project is a demo for the SPARC Data Workshop and Hackaton competition - https://sparcdatathon.dryfta.com/en/
+See the [LICENSE file](LICENSE.txt).
 
 ## Acknowledgments
 
-* Many thanks SPARC investigators, DAT/MAP/SIM-CORE, DRC and Blackfynn for the support!
+Many thanks SPARC investigators, DAT/MAP/SIM-CORE, DRC and Blackfynn for the support!
 
 ## Contact
 Please email bpatel@calmi2.org for any question or comment.
