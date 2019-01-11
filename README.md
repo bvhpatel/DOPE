@@ -53,10 +53,10 @@ Follow instructions at http://docs.blackfynn.io/python/latest/quickstart.html#in
 
 
 ## Built With
-* [Anaconda] (https://www.anaconda.com) - Fastest and easiest way to use Jupyter
-* [Jupyter] (https://jupyter.org/) - Software and web service development
-* [Ipywidgets] (https://pypi.org/project/ipywidgets/) - Interactive HTML widgets for Jupyter notebooks
-* [Blackfynn python API] (http://docs.blackfynn.io/python/latest/) - Python client and command line tool for Blackfynn
+* [Anaconda](https://www.anaconda.com) - Fastest and easiest way to use Jupyter
+* [Jupyter](https://jupyter.org/) - Software and web service development
+* [Ipywidgets](https://pypi.org/project/ipywidgets/) - Interactive HTML widgets for Jupyter notebooks
+* [Blackfynn python API](http://docs.blackfynn.io/python/latest/) - Python client and command line tool for Blackfynn
 
 
 
